@@ -1,7 +1,8 @@
+import "./index.css"
 
 const Home =()=>{
     console.log("home")
-    return <div>home</div>
+    return <div className="home">home</div>
 }
 
 export default Home
